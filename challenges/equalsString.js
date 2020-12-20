@@ -13,7 +13,7 @@ console.log(check(["hello", "Hello"]));//return false
 console.log(check(["hello", "hey"]));//return true
 /*----------Equal String----------*/
 
-/*----------Other Way----------*/
+/*----------Other Way----------
 const check = (arr) => arr[1].toLowerCase().split("").every((letter) => arr[0].toLowerCase().indexOf(letter) != -1);
 
 console.log(check(["hello", "Hello"]));//return true
