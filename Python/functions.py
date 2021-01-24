@@ -4,9 +4,9 @@
 #Using Functions
 #------------------------#
 print("----------------------")
-def print_helloWorld() : 
+def print_hello_world() : 
     print("Hello World")
-print_helloWorld()
+print_hello_world()
 print("----------------------")
 #------------------------#
 '''
@@ -14,8 +14,8 @@ print("----------------------")
 #Using paramaters
 #------------------------#
 print("----------------------")
-def print_myName(name) : 
+def print_my_name(name) : 
     print("Your name is: " + name)
-print_myName("João")
+print_my_name("João")
 print("----------------------")
 #------------------------#
