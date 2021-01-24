@@ -1,4 +1,4 @@
-#Input
+#Tuples and List
 
 '''
 #Lists != Tuples
